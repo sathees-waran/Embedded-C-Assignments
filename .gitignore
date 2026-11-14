@@ -1,0 +1,20 @@
+# MPLAB X generated output
+build/
+dist/
+debug/
+nbproject/private/
+
+# Generated intermediate files
+*.o
+*.p1
+*.i
+*.d
+*.sdb
+*.rlf
+*.cmf
+*.sym
+*.lst
+*.map
+*.mum
+*.hxl
+*.elf
