@@ -41,14 +41,6 @@ Embedded-C-Assignments/
 └── A05-PWM-LED-Dimmer/
 ```
 
-## Hardware Mapping
-
-The assignments use the same board connections throughout.
-
-| Peripheral | PIC Pins | Notes |
-|------------|----------|-------|
-| LEDs (8) | RD0 to RD7 (PORTD) | Active high |
-| Digital keypad switches (DKS1 to DKS6) | RB0 to RB5 (PORTB) | Active low, read through `digital_keypad.c` |
 
 ## How to Build and Run
 
